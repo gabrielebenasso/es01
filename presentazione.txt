@@ -1,0 +1,6 @@
+Sono Gabriele Benasso, 26 anni.
+Mi sono diplomato al liceo scientifico di Vercelli, città dove vivo.
+A 23 anni ho preso una laurea triennale in Discipline delle arti della musica e dello spettacolo 
+all' università di Torino.
+Le mie esperienze precedenti nella programmazione si rifanno tutte ai corsi di informatica frequentati 
+università, che si concentravano però unicamente sul lato server side(HTML, CSS, Javascript).
